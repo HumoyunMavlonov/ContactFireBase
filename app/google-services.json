@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "483905574437",
+    "project_id": "contactfire-5c627",
+    "storage_bucket": "contactfire-5c627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483905574437:android:20b61b02f54ae54aead1cc",
+        "android_client_info": {
+          "package_name": "uz.gita.contactfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2SFrlJurL3fEZcog3d-iGadDQyUM81g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483905574437:android:8d75c459e064a05cead1cc",
+        "android_client_info": {
+          "package_name": "uz.gita.contactfirebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2SFrlJurL3fEZcog3d-iGadDQyUM81g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
